@@ -16,6 +16,7 @@
     # Keep asking the user for input untill they enter a number between 1 and 10
 
 * 8. Prime Number Checker
+    # check if number is prime.
 
 * 9. List Uniqueness Checker
 
