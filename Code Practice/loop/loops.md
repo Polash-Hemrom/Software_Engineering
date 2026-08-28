@@ -13,6 +13,7 @@
 * 6. Factorial Calculator
 
 * 7. Validate Input
+    # Keep asking the user for input untill they enter a number between 1 and 10
 
 * 8. Prime Number Checker
 
