@@ -1,4 +1,4 @@
-**Loops in Python**
+Loops in Python**
 
 * 1. Counting Positive Numbers
 
@@ -19,5 +19,7 @@
     # check if number is prime.
 
 * 9. List Uniqueness Checker
+#### Check if all elements in a list are unique. If a duplicate is found, exit the loop and print duplicate.
+    ### list = ['apple', 'banana', 'cheery', 'apple', 'mango']
 
 * 10. Exponential Backoff
